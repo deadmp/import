@@ -1,0 +1,2 @@
+Imports a list of all Steam appid's + names into a mysql database.
+To get the JSON file required download it from the Steam API.
